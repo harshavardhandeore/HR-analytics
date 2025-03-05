@@ -1,4 +1,4 @@
-# HR-analytics
+# HR-analytics (Interactive dashboard using Power BI)
 
 ## Introduction
 This HR analytics project aims to understand employees' working preferences whether they prefer working from home or the office and identify patterns in sick leaves. The insights help the employer plan team-building activities, manage office space capacity. A Power BI dashboard was created to visualize these metrics and provide actionable insights.
