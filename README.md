@@ -37,3 +37,24 @@ The final dashboard provides actionable insights for better decision-making.
 ## Dashboard
 
 [Dashboard](https://github.com/harshavardhandeore/HR-analytics/raw/main/Screenshot%202025-03-05%20200124.png)
+
+## Project Insights
+
+### Daily Metrics Insights
+- **Attendance by Day:**
+  - The highest attendance rates are on Tuesdays (92.69%) and Mondays (92.66%).
+  - The lowest attendance rates are on Fridays (90.08%) and Thursdays (90.54%).
+  - This suggests that employees are more likely to be present at the beginning of the week.
+
+- **WFH by Day:**
+  - The highest WFH rates are on Fridays (13.83%) and Thursdays (12.86%), indicating a preference for remote work towards the end of the week.
+  - The lowest WFH rates are on Tuesdays (9.36%) and Wednesdays (9.58%).
+
+- **SL by Day:**
+  - The highest sick leave rates are on Mondays (1.59%) and Tuesdays (1.20%), suggesting that employees might be more likely to take sick leave at the beginning of the week.
+  - The lowest sick leave rates are on Fridays (0.69%) and Thursdays (0.92%).
+
+## Conclusion
+This HR analytics project provides valuable insights into employees' working preferences and sick leave patterns. The Power BI dashboard helps plan team-building activities, manage office space, and improve health measures, leading to better decision-making and enhanced employee satisfaction. Future work could involve exploring additional factors influencing working preferences and sick leave patterns to further refine planning strategies.
+
+
