@@ -40,17 +40,16 @@ The final dashboard provides actionable insights for better decision-making.
 
 ## Project Insights
 
-### Daily Metrics Insights
-- **Attendance by Day:**
+- **Attendance:**
   - The highest attendance rates are on Tuesdays (92.69%) and Mondays (92.66%).
   - The lowest attendance rates are on Fridays (90.08%) and Thursdays (90.54%).
   - This suggests that employees are more likely to be present at the beginning of the week.
 
-- **WFH by Day:**
+- **Work from home:**
   - The highest WFH rates are on Fridays (13.83%) and Thursdays (12.86%), indicating a preference for remote work towards the end of the week.
   - The lowest WFH rates are on Tuesdays (9.36%) and Wednesdays (9.58%).
 
-- **SL by Day:**
+- **Sick leaves:**
   - The highest sick leave rates are on Mondays (1.59%) and Tuesdays (1.20%), suggesting that employees might be more likely to take sick leave at the beginning of the week.
   - The lowest sick leave rates are on Fridays (0.69%) and Thursdays (0.92%).
 
